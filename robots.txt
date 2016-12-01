@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /cPanel/
+Sitemap: https://androplay.pw/sitemap.xml
+Host: androplay.pw

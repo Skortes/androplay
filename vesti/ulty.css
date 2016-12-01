@@ -1,0 +1,66 @@
+body {
+background-color: #bebebe;
+margin: 2px auto;
+text-align: Arial;
+color: 3c3c3c;
+}
+p {
+padding: 0px;
+background-color: #ffffff;
+}
+a:link, a:active {
+color: #0b5f87;
+text-decoration: none;
+}
+a:hover {
+color: #1c7aa7;
+}
+.header {
+background-color: #263136;
+color: #fff;
+padding: 2px;
+}
+.title {
+background-color: #1190cd;
+color: #fff;
+padding: 9px;
+}
+.menu {
+background-color: #fff;
+padding: 8px;
+border: 1px solid #92bbcd;
+}
+.gmenu {
+background-color: #ffffff;
+padding: 8px;
+}
+.footer {
+background-color: #1a1e20;
+color: #fff;
+padding: 11px;
+}
+span.currentpage {
+background-color: #c5dde8;
+color: #000;
+padding: 4px;
+border: 1px solid #92bbcd;
+}
+a.pagenav {
+background-color: #1190cd;
+color: #fff;
+padding: 4px;
+border: 1px solid #0970a1;
+}
+a.pagenav:hover {
+background-color: #1a1e20;
+color: #fff;
+padding: 4px;
+border: 1px solid #000;
+}
+span.time {
+background-color: #5d9b60;
+color: #fff;
+padding: 1px;
+border: 1px solid #4d7a4f;
+border-radius: 5px;
+}

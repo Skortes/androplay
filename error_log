@@ -1,0 +1,21 @@
+[13-Sep-2016 23:59:32 Europe/Moscow] PHP Fatal error:  Call to undefined function verh() in /home/skortesr/kg/index.php on line 10
+[14-Sep-2016 00:00:16 Europe/Moscow] PHP Fatal error:  Call to undefined function verh() in /home/skortesr/kg/index.php on line 10
+[14-Sep-2016 00:00:17 Europe/Moscow] PHP Fatal error:  Class 'DB' not found in /home/skortesr/kg/guest.php on line 10
+[14-Sep-2016 00:00:23 Europe/Moscow] PHP Fatal error:  Call to undefined function verh() in /home/skortesr/kg/index.php on line 10
+[14-Sep-2016 00:13:46 Europe/Moscow] PHP Fatal error:  Call to undefined function verh() in /home/skortesr/kg/log.in.php on line 10
+[14-Sep-2016 00:19:40 Europe/Moscow] PHP Fatal error:  Call to undefined function verh() in /home/skortesr/kg/log.in.php on line 10
+[14-Sep-2016 00:20:59 Europe/Moscow] PHP Fatal error:  Call to undefined function verh() in /home/skortesr/kg/log.in.php on line 10
+[14-Sep-2016 00:47:55 Europe/Moscow] PHP Fatal error:  Call to undefined function verh() in /home/skortesr/kg/reg.php on line 8
+[14-Sep-2016 00:55:30 Europe/Moscow] PHP Fatal error:  Call to undefined function verh() in /home/skortesr/kg/reg.php on line 8
+[14-Sep-2016 01:33:01 Europe/Moscow] PHP Fatal error:  Call to undefined function verh() in /home/skortesr/kg/faq.php on line 13
+[14-Sep-2016 12:20:08 Europe/Moscow] PHP Fatal error:  Class 'DB' not found in /home/skortesr/kg/anketa.php on line 10
+[14-Sep-2016 13:55:10 Europe/Moscow] PHP Fatal error:  Call to undefined function verh() in /home/skortesr/kg/faq.php on line 13
+[14-Sep-2016 23:24:03 Europe/Moscow] PHP Fatal error:  Call to undefined function verh() in /home/skortesr/kg/who.php on line 9
+[15-Sep-2016 00:27:06 Europe/Moscow] PHP Fatal error:  Class 'DB' not found in /home/skortesr/kg/guest.php on line 10
+[15-Sep-2016 00:52:28 Europe/Moscow] PHP Fatal error:  Class 'DB' not found in /home/skortesr/kg/anketa.php on line 10
+[30-Sep-2016 12:56:19 Europe/Moscow] PHP Fatal error:  Call to undefined function verh() in /home/skortesr/andro/error.php on line 9
+[30-Sep-2016 12:56:22 Europe/Moscow] PHP Fatal error:  Call to undefined function verh() in /home/skortesr/andro/error.php on line 9
+[29-Oct-2016 19:21:44 Europe/Moscow] PHP Fatal error:  Call to undefined function verh() in /home/skortesr/andro/error.php on line 9
+[29-Oct-2016 19:21:50 Europe/Moscow] PHP Fatal error:  Call to undefined function verh() in /home/skortesr/andro/error.php on line 9
+[29-Oct-2016 19:21:55 Europe/Moscow] PHP Fatal error:  Call to undefined function verh() in /home/skortesr/andro/error.php on line 9
+[29-Oct-2016 19:21:59 Europe/Moscow] PHP Fatal error:  Call to undefined function verh() in /home/skortesr/andro/error.php on line 9

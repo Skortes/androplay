@@ -1,0 +1,38 @@
+rewriteengine on
+
+RewriteCond %{SERVER_PORT} !443
+RewriteRule (.*) https://androplay.pw/ [R]
+
+AddDefaultCharset utf-8 
+RewriteRule ^get/(.*)$ http://tegos.kz/video/kino/$1 [L,QSA]
+RewriteEngine On
+RewriteRule ^index.php$ / [QSA,R]
+
+RewriteRule ^newsln/?$ /news.php [L,QSA]
+RewriteRule ^aut/?$ /log.in.php [L,QSA]
+RewriteRule ^reg/?$ /reg.php [L,QSA]
+RewriteRule ^exit/?$ /index.php?exit [L,QSA]
+RewriteRule ^mail/?$ mail.php [L,QSA]
+RewriteRule ^msg/?$ cabinet/msg.php[L,QSA]
+RewriteRule ^us([0-9]+)$ /inf.php?id=$1 [L,QSA]
+RewriteRule ^info_([0-9]+)$ /anketa.php?id=$1 [L,QSA]
+RewriteRule ^onlineon/?$ /who.php [L,QSA]
+RewriteRule ^onlineg/?$ /whog.php [L,QSA]
+RewriteRule ^news/?$ /news/index.php [L,QSA]
+RewriteRule ^guest/?$ /guest.php [L,QSA]
+RewriteRule ^users/?$ /users.php [L,QSA]
+RewriteRule ^sog/?$ /info/sog.php [L,QSA]
+RewriteRule ^kont/?$ /info/kontakt.php [L,QSA]
+
+
+<FilesMatch ".(flv|gif|jpg|jpeg|png|ico|swf|js|css|pdf)$">
+  Header set Cache-Control "max-age=2592000"
+</FilesMatch>
+<IfModule mod_expires.c>
+    ExpiresActive On
+    ExpiresDefault "access plus 1 month"
+
+    ExpiresByType image/gif "access plus 2 months"
+    ExpiresByType image/jpeg "access plus 2 months"
+</IfModule>
+

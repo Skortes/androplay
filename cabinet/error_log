@@ -1,0 +1,5 @@
+[14-Sep-2016 01:22:43 Europe/Moscow] PHP Fatal error:  Call to undefined function verh() in /home/skortesr/kg/my/index.php on line 10
+[14-Sep-2016 11:24:08 Europe/Moscow] PHP Fatal error:  Call to undefined function verh() in /home/skortesr/kg/cabinet/new.php on line 11
+[14-Sep-2016 11:34:13 Europe/Moscow] PHP Fatal error:  Class 'DB' not found in /home/skortesr/kg/cabinet/mail.php on line 8
+[14-Sep-2016 13:50:27 Europe/Moscow] PHP Fatal error:  Call to undefined function verh() in /home/skortesr/kg/cabinet/new.php on line 11
+[14-Sep-2016 13:53:40 Europe/Moscow] PHP Fatal error:  Call to undefined function verh() in /home/skortesr/kg/cabinet/new.php on line 11

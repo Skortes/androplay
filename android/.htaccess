@@ -1,0 +1,4 @@
+rewriteengine on
+
+RewriteRule ^cat/(.*)/(.*)/?$ ./android.php?$1/?f=$2 [L,QSA]
+RewriteRule ^down/(.*)$ http://tegos.ru/android/$1 [L,QSA]

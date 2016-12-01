@@ -1,0 +1,11 @@
+[14-Sep-2016 01:35:52 Europe/Moscow] PHP Fatal error:  Call to undefined function verh() in /home/skortesr/kg/adm/index.php on line 10
+[14-Sep-2016 16:38:09 Europe/Moscow] PHP Fatal error:  Call to undefined function verh() in /home/skortesr/kg/cPanel/set.php on line 8
+[14-Sep-2016 16:54:36 Europe/Moscow] PHP Fatal error:  Call to undefined function verh() in /home/skortesr/kg/cPanel/set.php on line 8
+[14-Sep-2016 21:57:37 Europe/Moscow] PHP Fatal error:  Call to undefined function verh() in /home/skortesr/kg/cPanel/bill_cena.php on line 8
+[14-Sep-2016 22:01:51 Europe/Moscow] PHP Fatal error:  Call to undefined function verh() in /home/skortesr/kg/cPanel/banner.php on line 8
+[14-Sep-2016 22:04:50 Europe/Moscow] PHP Fatal error:  Call to undefined function verh() in /home/skortesr/kg/cPanel/news.php on line 10
+[14-Sep-2016 22:16:37 Europe/Moscow] PHP Fatal error:  Call to undefined function verh() in /home/skortesr/kg/cPanel/news.php on line 10
+[14-Sep-2016 22:16:41 Europe/Moscow] PHP Fatal error:  Call to undefined function verh() in /home/skortesr/kg/cPanel/news.php on line 10
+[15-Sep-2016 00:52:01 Europe/Moscow] PHP Fatal error:  Call to undefined function verh() in /home/skortesr/kg/cPanel/chat.php on line 10
+[15-Sep-2016 00:57:09 Europe/Moscow] PHP Fatal error:  Class 'DB' not found in /home/skortesr/kg/cPanel/us.php on line 3
+[15-Sep-2016 18:48:57 Europe/Moscow] PHP Fatal error:  Call to undefined function verh() in /home/skortesr/androplay.ml/cPanel/chat.php on line 10
