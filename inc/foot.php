@@ -47,7 +47,7 @@ chislo1 span a {
     color: #fff !important;
 }
 </style>
-<div class="chislo1"><span>AndroPlay.Pw</span><span id="vk"><a href="https://vk.com/club_androplay">Мы Вконтакте</a></span></div>
+<div class="chislo1"><span>AndroPlay.Pw</span><span id="vk"><a  href="https://vk.com/club_androplay" rel="external">Мы Вконтакте</a></span></div>
 
             </ul></div></div>
 <?
