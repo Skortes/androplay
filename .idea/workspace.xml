@@ -27,12 +27,21 @@
             <state relative-caret-position="170">
               <caret line="48" column="8" selection-start-line="48" selection-start-column="8" selection-end-line="48" selection-end-column="8" />
               <folding>
+<<<<<<< HEAD
+                <marker date="1480633252107" expanded="true" signature="31:398" ph="..." />
+                <marker date="1480633252107" expanded="false" signature="204:219" ph="..." />
+                <marker date="1480633252107" expanded="true" signature="2630:2652" ph="SELECT `on` set" />
+                <marker date="1480633252107" expanded="true" signature="10877:10896" ph="..." />
+                <marker date="1480633252107" expanded="true" signature="11002:11043" ph="SELECT count... us" />
+                <marker date="1480633252107" expanded="true" signature="11151:11196" ph="SELECT count... guests" />
+=======
                 <marker date="1480633138252" expanded="true" signature="31:398" ph="..." />
                 <marker date="1480633138252" expanded="false" signature="204:219" ph="..." />
                 <marker date="1480633138252" expanded="true" signature="2646:2668" ph="SELECT `on` set" />
                 <marker date="1480633138252" expanded="true" signature="10893:10912" ph="..." />
                 <marker date="1480633138252" expanded="true" signature="11018:11059" ph="SELECT count... us" />
                 <marker date="1480633138252" expanded="true" signature="11167:11212" ph="SELECT count... guests" />
+>>>>>>> master
               </folding>
             </state>
           </provider>
@@ -43,6 +52,8 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+<<<<<<< HEAD
+=======
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -50,6 +61,7 @@
       </list>
     </option>
   </component>
+>>>>>>> master
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsGulpfileManager">
@@ -94,12 +106,15 @@
           <PATH>
             <PATH_ELEMENT>
               <option name="myItemId" value="androplay.git" />
+<<<<<<< HEAD
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
               <option name="myItemId" value="androplay.git" />
+=======
+>>>>>>> master
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -116,6 +131,19 @@
               <option name="myItemId" value="androplay.git" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
+<<<<<<< HEAD
+=======
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="androplay.git" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="androplay.git" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+>>>>>>> master
             <PATH_ELEMENT>
               <option name="myItemId" value="inc" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
@@ -128,6 +156,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
@@ -188,12 +217,20 @@
       <option name="presentableId" value="Default" />
       <updated>1480632283832</updated>
       <workItem from="1480632286212" duration="235000" />
+<<<<<<< HEAD
+      <workItem from="1480632841455" duration="42000" />
+=======
       <workItem from="1480633066667" duration="72000" />
+>>>>>>> master
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
+    <option name="totallyTimeSpent" value="282000" />
+=======
     <option name="totallyTimeSpent" value="307000" />
+>>>>>>> master
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
@@ -240,15 +277,30 @@
         <state relative-caret-position="170">
           <caret line="48" column="8" selection-start-line="48" selection-start-column="8" selection-end-line="48" selection-end-column="8" />
           <folding>
+<<<<<<< HEAD
+            <marker date="1480633252107" expanded="true" signature="31:398" ph="..." />
+            <marker date="1480633252107" expanded="false" signature="204:219" ph="..." />
+            <marker date="1480633252107" expanded="true" signature="2630:2652" ph="SELECT `on` set" />
+            <marker date="1480633252107" expanded="true" signature="10877:10896" ph="..." />
+            <marker date="1480633252107" expanded="true" signature="11002:11043" ph="SELECT count... us" />
+            <marker date="1480633252107" expanded="true" signature="11151:11196" ph="SELECT count... guests" />
+=======
             <marker date="1480633138252" expanded="true" signature="31:398" ph="..." />
             <marker date="1480633138252" expanded="false" signature="204:219" ph="..." />
             <marker date="1480633138252" expanded="true" signature="2646:2668" ph="SELECT `on` set" />
             <marker date="1480633138252" expanded="true" signature="10893:10912" ph="..." />
             <marker date="1480633138252" expanded="true" signature="11018:11059" ph="SELECT count... us" />
             <marker date="1480633138252" expanded="true" signature="11167:11212" ph="SELECT count... guests" />
+>>>>>>> master
           </folding>
         </state>
       </provider>
     </entry>
   </component>
+<<<<<<< HEAD
+  <component name="webServersAuthStorage">
+    <data>AAAAsI9770JrHsqjrhtdhtmDwba9g7TTDoJzd1H4JNkAT9gcpQ2n329SpAUxVakeR+ReGmgipmZOTC8P8WvI1UudSuq59AB2Xh+OWEZnbEKdtiLp1IoBBGlY4gQt3vbLUTJDWzOA+skCtfU8cPOJxHde5NOr3Ex2d7iG6Ax5aKiI8rRWNVf2SVuvJ25/J5maohX3ymVt062bak4WIuNzcjqXAcxNB2Xf5zSzUFpcUbYTPQO5bwBlj+cYfVAzcmxR7WFL+Q==</data>
+  </component>
+=======
+>>>>>>> master
 </project>
